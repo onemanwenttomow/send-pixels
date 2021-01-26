@@ -1,0 +1,20 @@
+{
+    "name": "send-pixels",
+    "version": "1.0.0",
+    "description": "Add a random pixel art to your terminal",
+    "main": "./lib/send-pixels.js",
+    "bin": {
+        "sendPixels": "./bin/index.js"
+    },
+    "keywords": [
+        "pixel",
+        "art"
+    ],
+    "author": "Peter Anderson",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/onemanwenttomow/send-pixels"
+    },
+    "homepage": "https://github.com/onemanwenttomow/send-pixels"
+}
